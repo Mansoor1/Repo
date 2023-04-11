@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="2" time="0.55">
+    <testcase classname="Login Action" name="Login Validation with multiple data" time="0.079">
+        <system-out><![CDATA[Given When user is on Home page.............................................passed
+When User Clicks on Sign in link............................................passed
+When user enters "m.arpana" and "arpana123" to Login page...................passed
+Then user should able to see his Account....................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Login Action" name="Login Validation with multiple data 2" time="0.002">
+        <system-out><![CDATA[Given When user is on Home page.............................................passed
+When User Clicks on Sign in link............................................passed
+When user enters "riya" and "riya123" to Login page.........................passed
+Then user should able to see his Account....................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
